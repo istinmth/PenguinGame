@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/PenguinMainMusic.mp3-21fbad866a2bafd3d61ff8d62e7ca1d8.mp3str"
+
+[deps]
+
+source_file="res://PenguinMainMusic.mp3"
+dest_files=[ "res://.import/PenguinMainMusic.mp3-21fbad866a2bafd3d61ff8d62e7ca1d8.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

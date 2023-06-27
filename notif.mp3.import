@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/notif.mp3-fd1b06c8e3ad64f774bbddd096db7aa6.mp3str"
+
+[deps]
+
+source_file="res://notif.mp3"
+dest_files=[ "res://.import/notif.mp3-fd1b06c8e3ad64f774bbddd096db7aa6.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
